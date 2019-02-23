@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
-<title>Strangely Creative</title>
+<title>This is my title</title>
 <body>
   <h1>This is my first heading</h1>
   <p>My first paragraph</p>
+  <p>This is my second paragraph</p>
 </body>
 </html>
