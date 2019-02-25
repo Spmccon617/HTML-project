@@ -1,2 +1,1 @@
-# HTML-project
-Practicing HTML creating a web page
+Practicing HTML and css creating a web page
